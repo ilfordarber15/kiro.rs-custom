@@ -1,0 +1,11 @@
+/target
+**/node_modules
+admin-ui/dist
+config/
+*.log
+.DS_Store
+.env
+credentials.json
+config.json
+kiro_stats.json
+kiro_balance_cache.json
